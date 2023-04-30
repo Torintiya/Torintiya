@@ -1,5 +1,5 @@
 * HTML
 * CSS
 * WordPress
-* изучаю JavaScript
-* адаптивная вёрстка
+* Изучаю JavaScript
+* Адаптивная вёрстка
